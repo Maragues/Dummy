@@ -1,0 +1,553 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel",
+      "surnames": "Aragüés Peleato",
+      "title": "Android Developer",
+      "description": "I've been building Android-related code since 2010. At first, user-centric applications. Over the last years, I've transitioning from developer, to android team lead, to building internals of the application or tools for other Android developers to shine. \n\nI have experience leading Android teams (~10 developers), but coding is important to me.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/99c99f56-886f-4625-97eb-0e077519d3b1_avatar.png",
+        "alt": "avatar.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkY5hXt0UWQ0RqImEFfET30k)",
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Zaragoza"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/miguel-arag%C3%BC%C3%A9s-1142387/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Maragues"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Maragues"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Baracoda",
+          "URL": "https://baracoda.com/bconnect-ai-engagement-platform"
+        },
+        "roles": [
+          {
+            "name": " Lead Android developer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Transition from Kolibree Lead Android dev to Baracoda's Lead Android dev.\n\nMy day-to-day job is somewhat related to Android development, but I'm also the owner of some kotlin projects that are used by the entire organization.\n\nThe project relies completely on protobuf, hence I've gained deep knowledge of the tool, and specially of protobuf-java library.\n\nAs Baracoda's Android Lead developer, I organize monthly meetings where we share knowledge amongst company developers. \n\nI'm also de maintainer of a set of android/java libraries shared across the organization.\n\nDuring the last 3 years, I've developed and maintained a number of gradle plugins that are at the core of the libraries we deliver to clients."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Dagger2",
+                "type": "technology"
+              },
+              {
+                "name": "Gradle",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "JetPack",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Protobuf",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kolibree",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/cb79c26b-a8e6-4b30-968d-441b838f45c3_zclz4v7bagcudhcvx71j.png",
+            "alt": "Kolibree"
+          },
+          "URL": "http://kolibree.com"
+        },
+        "roles": [
+          {
+            "name": "Lead Android Developer",
+            "startDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Kolibree developed Smart toothbrushes for Colgate, the oral health company. The toothbrushes are called [Hum](https://www.colgate.com/en-us/hum).\n\nI was the lead developer of the Android application. When I joined in 2017, we were only 2 android developers, but over team we grew up to 10 android developers.\n\nI was responsible for talking to the product owner, understanding the product decisions, and organizing the android team to meet the goals. This implied attending regularly meetings with Colgate stakeholders, and breaking down business goals into technical tasks."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MartianCraft",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/48ce72aa-4038-4dcb-98dc-f25dad47ab11_rakcxesp9uuejfzu0kw2.png",
+            "alt": "MartianCraft"
+          },
+          "URL": "http://martiancraft.com/"
+        },
+        "roles": [
+          {
+            "name": "Lead Android Developer",
+            "startDate": "2017-02-01",
+            "finishDate": "2017-05-31",
+            "challenges": [
+              {
+                "description": "Lead developer for a medical app that establishes a bluetooth link with an external device and communicates via commands/responses"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MicroHealth",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/75236b44-2124-4d3f-b132-e00bdd86f9ab_wjs48oror4wwrrsdd3mb.png",
+            "alt": "MicroHealth"
+          },
+          "URL": "https://microhealth.com/"
+        },
+        "roles": [
+          {
+            "name": "Android developer",
+            "startDate": "2012-05-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "I've been the only Android developer, responsible for the creation of the apps from scratch. Also involved in the product design process.\n\nI have built 4 applications, all of which work against a backend server as well as offline\n\n[https://play.google.com/store/apps/details?id=com.microhealth.hemophilia](https://play.google.com/store/apps/details?id=com.microhealth.hemophilia)\n\n[https://play.google.com/store/apps/details?id=com.jointfully](https://play.google.com/store/apps/details?id=com.jointfully)\n\n[https://play.google.com/store/apps/details?id=com.tectrack](https://play.google.com/store/apps/details?id=com.tectrack) (US ONLY)\n\n[https://play.google.com/store/apps/details?id=org.micro8&hl=en](https://play.google.com/store/apps/details?id=org.micro8&hl=en)\n\nAll apps have a Espresso and JUnit test suite"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Dagger2",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Retrofit",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance",
+          "URL": "https://stackoverflow.com/users/story/lists/309830/freelance?storyType=1"
+        },
+        "roles": [
+          {
+            "name": "Android freelancer",
+            "startDate": "2011-01-01",
+            "finishDate": "2012-02-28",
+            "challenges": [
+              {
+                "description": "I only developed apps for internal company use"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sevenclick",
+          "URL": "https://twitter.com/sevenclick"
+        },
+        "roles": [
+          {
+            "name": "Intern Android developer",
+            "startDate": "2010-03-01",
+            "finishDate": "2010-12-31",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BuscoUnViaje",
+          "URL": "http://www.buscounviaje.com"
+        },
+        "roles": [
+          {
+            "name": "PHP Backend developer",
+            "startDate": "2008-06-01",
+            "finishDate": "2010-02-28",
+            "challenges": [
+              {
+                "description": "Worked part time while I completed my studies, then full time for some months.\n\nI was responsible for some parts of the backend and helped the CTO here and there.\n\nSince the company was in its inception, I participated actively in the design and architecture of the backend.\n\nI also did some mysql performance tweaking"
+              }
+            ],
+            "competences": [
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Top 1% at Stack Overflow answers",
+          "description": "This user is part of the top 1% Stack Overflow answerers in these technologies"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 10% at Stack Overflow answers",
+          "description": "This user is part of the top 10% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in these technologies"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dagger2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JetPack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Protobuf",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Retrofit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RxJava",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "gRPC",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Computer Science",
+        "startDate": "2006-01-01",
+        "institution": {
+          "name": "University of Zaragoza"
+        },
+        "finishDate": "2009-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team management",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/miguel-arag%C3%BC%C3%A9s-1142387/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Maragues",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/Maragues",
+          "type": "twitter"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "Android Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Dagger2",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "JUnit",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "Mockito",
+          "type": "technology"
+        },
+        {
+          "name": "Retrofit",
+          "type": "technology"
+        },
+        {
+          "name": "RxJava",
+          "type": "technology"
+        },
+        {
+          "name": "Unix",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Mobile Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Android",
+        "type": "technology"
+      },
+      {
+        "name": "Gradle",
+        "type": "technology"
+      },
+      {
+        "name": "JetPack",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I would love a job on a cross functional team where I have the chance to learn from other experts.\n\nI'm not scared of leading a team, as long as I also have enough time to work as an individual contributor to the code base.\n\nI also like to feel that I have impact on the company's outcome. As an example, I've actively participated in defining the onboarding experience at my current workplace.",
+    "goodPractices": "Automated testing\n"
+  }
+}
