@@ -486,6 +486,10 @@
           "type": "technology"
         },
         {
+          "name": "Coroutines",
+          "type": "technology"
+        },
+        {
           "name": "Dagger2",
           "type": "technology"
         },
@@ -530,7 +534,8 @@
     "status": "openToOffers",
     "requirements": {
       "contractTypes": [
-        "permanent"
+        "permanent",
+        "freelance"
       ]
     }
   },
