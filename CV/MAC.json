@@ -502,6 +502,10 @@
           "type": "technology"
         },
         {
+          "name": "Gradle",
+          "type": "technology"
+        },
+        {
           "name": "JUnit",
           "type": "technology"
         },
